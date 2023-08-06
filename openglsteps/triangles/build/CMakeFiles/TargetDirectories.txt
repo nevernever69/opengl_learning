@@ -1,0 +1,5 @@
+/home/never/opengl/openglsteps/triangles/build/CMakeFiles/triangle1.dir
+/home/never/opengl/openglsteps/triangles/build/CMakeFiles/triangle2.dir
+/home/never/opengl/openglsteps/triangles/build/CMakeFiles/square.dir
+/home/never/opengl/openglsteps/triangles/build/CMakeFiles/edit_cache.dir
+/home/never/opengl/openglsteps/triangles/build/CMakeFiles/rebuild_cache.dir

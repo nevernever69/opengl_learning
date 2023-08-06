@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/square.dir/square.cpp.o CMakeFiles/square.dir/home/never/opengl/openglsteps/otherlib/src/glad.c.o -o square  -lSDL2 -ldl 

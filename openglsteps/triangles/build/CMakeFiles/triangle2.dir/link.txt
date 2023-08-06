@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/triangle2.dir/triangle2.cpp.o CMakeFiles/triangle2.dir/home/never/opengl/openglsteps/otherlib/src/glad.c.o -o triangle2  -lSDL2 -ldl 
